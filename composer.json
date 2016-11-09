@@ -1,17 +1,3 @@
-# IT Workshop - Code Structure and Design
-
-## Initialize our package
-
-After installing composer, run this command in your project's directory.
-
-```
-$ composer init
-```
-
-
-## Basic dependencies
-
-```json
 {
     "name": "vasildakov/worldstores-design",
     "description": "IT Workshop - Code Structure and Design",
@@ -43,12 +29,3 @@ $ composer init
         }
     }
 }
-
-```
-
-
-## Install dependencies
-
-```
-$ composer install
-```
