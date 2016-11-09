@@ -1,2 +1,2 @@
-# worldstores-design
-worldstores-design
+# IT Workshop - Code Structure and Design
+
