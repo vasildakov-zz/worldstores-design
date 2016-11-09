@@ -28,7 +28,7 @@ $ composer init
     },
     "require-dev": {
         "phpunit/phpunit": "^4.7 | ^5.0",
-        "phpunit/php-code-coverage": "^3.0|^4.0",
+        "phpunit/php-code-coverage": "^3.0 | ^4.0",
         "phpunit/phpcov": "^3.1",
         "phpspec/phpspec": "^3.1"
     },
