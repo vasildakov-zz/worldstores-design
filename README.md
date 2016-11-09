@@ -52,3 +52,17 @@ $ composer init
 ```
 $ composer install
 ```
+
+## Running PHPUnit tests
+
+```
+$ php vendor/bin/phpunit
+
+PHPUnit 5.6.2 by Sebastian Bergmann and contributors.
+
+Time: 10 ms, Memory: 2.00MB
+
+No tests executed!
+
+```
+
